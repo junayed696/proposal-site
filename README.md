@@ -10,7 +10,7 @@ With soft animations, heartfelt messages, and an elegant UI, this site turns a s
 ## 🛠 Tech Stack
 
 - ⚛️ **Next.js** – React Framework for building fast UI
-- 🎨 **Tailwind CSS** – For modern and responsive styling
+- 🎨 **Junu CSS** – For modern and responsive styling
 - 🎞️ **Motion** – Smooth entrance and fade animations
 - 🖼️ **Swiper.js** – For smooth image/cards slideshow
 
